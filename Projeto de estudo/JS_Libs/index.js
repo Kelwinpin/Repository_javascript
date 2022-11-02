@@ -1,2 +1,2 @@
-import chalk from 'chalk'
-console.log(chalk.blueBright('Olá mundo'))
+import chalk from "chalk";
+console.log(chalk.blue("Helo world"))
