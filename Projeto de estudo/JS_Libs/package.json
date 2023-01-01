@@ -1,5 +1,9 @@
 {
   "type": "module",
+  "scripts": {
+    "cli":"node ./SRC/cli.js ./arquivos/texto.md",
+    "cli:valida":"node ./SRC/cli.js ./arquivos/texto.md --valida"
+  },
   "dependencies": {
     "chalk": "^5.0.1"
   }
